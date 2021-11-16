@@ -1,6 +1,6 @@
 This is a personal website.
 
-This is one of my attempts to tinker with code.
+This is one of my attempts at tinkering with code.
 
 Credits:
 	AJ: aj@lkn.io | @ajlkn
